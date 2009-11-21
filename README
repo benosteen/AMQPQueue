@@ -1,0 +1,8 @@
+AMQPqueue - code used for workers running off an AMQP exchange.
+
+(As demo'd at a JISC RI event)
+
+You might want to look at 'celery' - http://ask.github.com/celery/ if you want a more production suited task management library.
+
+You'll need to easy_install 'flickrapi' for the flickr uploader, 'solrpy' for the solr loader, and 'pyinotify' for the inotifyer.
+
